@@ -34,8 +34,12 @@ His technical focus is on AI/ML and audio computation, more specifically on gene
 
 - ⚠️ [Dive into Deep Learning](https://d2l.ai/) -> As far as this repo is aware, *the premiere* open-source resource for learning Deep Learning. Examples in PyTorch, NumPy/MXnet, JAX, and TensorFlow.
 
-- ⚠️ []()
+- ⚠️ [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
+
+- ⚠️ Deep Learning: Foundations and Concepts, by Christopher M. Bishop, Hugh Bishop | [Springer](https://link.springer.com/book/10.1007/978-3-031-45468-4) []()
 
 ## Other
 
-- ⚠️ []()
+- ⚠️ [A Simple and Efficient Tensor Calculus, by Sören Laue, Matthias Mitterreiter, Joachim Giesen](https://www.matrixcalculus.org/tensorcalculus.pdf)
+
+- ⚠️ [Numerical Recipes: The Art of Scientific Computing, by Saul Teukolsky, William H. Press, William T. Vetterling](https://numerical.recipes/book.html) -> for C/C++ basics and numerics
